@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Hasan M. Hallak on 21/03/2023.
+  
+*/
+CFBundleDisplayName = "Music Player";
+NSCameraUsageDescription = "This will allow you to pick an image directly from the camera.";
+NSPhotoLibraryUsageDescription = "This will allow you to pick an image from your gallery.";

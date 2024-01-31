@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Hasan M. Hallak on 21/03/2023.
+  
+*/
+CFBundleDisplayName = "MusicPlayer";
+NSCameraUsageDescription = "هذا سيمكنك من اختيار الصور من الكاميرا مباشرة.";
+NSPhotoLibraryUsageDescription = "هذا سيمكنك من اختيار الصور من المعرض.";
